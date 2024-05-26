@@ -1,24 +1,11 @@
-# React + Vite
+<h1>Sumz</h1>
+<h2>AI-Powered Article Summarizer Web Application</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- An innovative AI-powered web App that allows users to input blog or web page links, generating concise summaries of the 
+content.
+- It uses API from the Rapid APIs platform to perform the desired action.
+- The app used React JS, Redux Toolkit, and Tailwind CSS for a seamless user experience.
+- It also allows users to track their summary history and associated URLs, utilizing the web browser's local storage for 
+data storage.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-content: [
-    './index.html',
-    "./src/**/*.{js,jsx,ts,tsx}",
-    // "./src/App.jsx",
-  ],
-  theme: {
-    extend: {
-      fontFamily: {
-        satoshi: ['Satoshi', 'sans-serif'],
-        inter: ['Inter', 'sans-serif'],
-      },
-    },
-  },
-  plugins: [],
-}
+<a href="https://stellar-syrniki-0b07fe.netlify.app/">Live Preview</a>
